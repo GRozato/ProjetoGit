@@ -1,5 +1,5 @@
 alterou = 'alteração'
 if(alterou):
-    print("eba!")
+    print("Update test!")
 else:
-    print("tu não vai nem estar vendo isso se der problema")
+    print("Update test")
