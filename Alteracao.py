@@ -1,4 +1,3 @@
-print('Hello World')
 alterou = 'alteração'
 if(alterou):
     print("eba!")
